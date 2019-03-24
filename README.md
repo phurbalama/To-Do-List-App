@@ -1,0 +1,2 @@
+# To-Do-List-App
+This is a simple "To Do List App" created using HTML, CSS and JavaScript. In this app, I have implemented localstorage that will allow you to save your activity until you press on the clear button which will delete all the activity. For CSS, I used fontawesome.css to use their icons for my app and div with class and id for javascript to access and manipulate the data. Javascript has alot of function and call back funtion to take the input value and post it in the array list.
